@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+  }
+  
+  form {
+    margin-top: 20px;
+    background-color: blueviolet;
+  }
+  
+  #result {
+    font-weight: bold;
+    margin-top: 20px;
+  }
+  
